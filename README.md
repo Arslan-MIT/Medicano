@@ -148,9 +148,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [mohAhmadRaza](https://github.com/Arslan-MIT)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/muhammad-arslan-69b278210)
+- **Email**: marslan.pgc@gmail.com
+- **GitHub**: [Muhammad Arslan](https://github.com/Arslan-MIT)
+- **LinkedIn**: [Arslan](https://www.linkedin.com/in/muhammad-arslan-69b278210)
 
 ---
 
